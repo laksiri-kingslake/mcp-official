@@ -36,3 +36,6 @@ touch client.py
 
 uv run client.py C:\\my\\lessions\\mcp\\mcp-official\\weather\\server\\weather.py
 ```
+
+## Reference
+- [Build an MCP client](https://modelcontextprotocol.io/docs/develop/build-client)
